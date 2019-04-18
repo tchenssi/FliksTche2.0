@@ -1,4 +1,4 @@
-# Project 1 - Flickter - FliksterTchen2.0
+# Project 1 - Flikster - FliksterTchen2.0
 Build a read-only movie listing app using the Movie Database API.
 
 Shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
